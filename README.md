@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/peterrek/skilled-elearning-landing-page
-- Live Site URL: https://github.com/peterrek/skilled-elearning-landing-page.git
+- Live Site URL: https://peterrek.github.io/skilled-elearning-landing-page/
 
 ## My process
 
